@@ -1,5 +1,17 @@
 PointCloudViewer
 ================
+
+####Visualization of 3D point cloud using OpenGL
+
+INPUT
+
+　Point cloud (x,y,z)
+
+OUTPUT
+
+　None
+  
+<br ?>
   
 ####3次元点群のOpenGLによる可視化  
   
